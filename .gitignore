@@ -1,0 +1,26 @@
+# Fichiers système macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Icon?
+._*
+
+# Dossiers de métadonnées Apple
+.Spotlight-V100
+.Trashes
+
+# Fichiers temporaires
+*.swp
+*.tmp
+*~
+
+# Obsidian : éviter de versionner les caches et workspace
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/plugins/obsidian-git/data.json
+.obsidian/plugins/obsidian-git/obsidian_git.log
+
+# Si vous utilisez des plugins générant leurs propres caches
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/cache
