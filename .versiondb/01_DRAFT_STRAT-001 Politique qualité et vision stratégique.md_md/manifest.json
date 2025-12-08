@@ -1,0 +1,38 @@
+{
+  "noteId": "01_DRAFT_STRAT-001 Politique qualité et vision stratégique.md_md",
+  "notePath": "02_PUBLIE/1.Stratégie/STRAT-001 Politique qualité et vision stratégique.md",
+  "currentBranch": "main",
+  "branches": {
+    "main": {
+      "versions": {
+        "20251208095034_1": {
+          "versionNumber": 1,
+          "timestamp": "2025-12-07T22:50:34.275Z",
+          "name": "0.1",
+          "size": 4478,
+          "wordCount": 3140,
+          "wordCountWithMd": 3139,
+          "charCount": 4079,
+          "charCountWithMd": 4351,
+          "lineCount": 81,
+          "lineCountWithoutMd": 1
+        },
+        "20251208095120_2": {
+          "versionNumber": 2,
+          "timestamp": "2025-12-07T22:51:20.208Z",
+          "name": "1.0",
+          "size": 4479,
+          "wordCount": 3140,
+          "wordCountWithMd": 3139,
+          "charCount": 4079,
+          "charCountWithMd": 4352,
+          "lineCount": 82,
+          "lineCountWithoutMd": 1
+        }
+      },
+      "totalVersions": 2
+    }
+  },
+  "createdAt": "2025-12-07T22:50:34.267Z",
+  "lastModified": "2025-12-07T23:23:52.518Z"
+}

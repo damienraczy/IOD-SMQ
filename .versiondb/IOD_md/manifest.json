@@ -1,0 +1,36 @@
+{
+  "noteId": "IOD_md",
+  "notePath": "03_ARCHIVES/IOD.md",
+  "currentBranch": "main",
+  "branches": {
+    "main": {
+      "versions": {
+        "20251208075616_1": {
+          "versionNumber": 1,
+          "timestamp": "2025-12-07T20:56:16.887Z",
+          "size": 2678,
+          "wordCount": 2031,
+          "wordCountWithMd": 2031,
+          "charCount": 2506,
+          "charCountWithMd": 2572,
+          "lineCount": 28,
+          "lineCountWithoutMd": 1
+        },
+        "20251208075640_2": {
+          "versionNumber": 2,
+          "timestamp": "2025-12-07T20:56:40.449Z",
+          "size": 4250,
+          "wordCount": 3038,
+          "wordCountWithMd": 3038,
+          "charCount": 3894,
+          "charCountWithMd": 4132,
+          "lineCount": 82,
+          "lineCountWithoutMd": 1
+        }
+      },
+      "totalVersions": 2
+    }
+  },
+  "createdAt": "2025-12-07T20:56:16.879Z",
+  "lastModified": "2025-12-08T03:55:03.385Z"
+}

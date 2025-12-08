@@ -1,0 +1,39 @@
+{
+  "noteId": "00_Workflow_SMQ_IOD_md",
+  "notePath": "01_DRAFT/00_Workflow_SMQ_IOD 1.md",
+  "currentBranch": "main",
+  "branches": {
+    "main": {
+      "versions": {
+        "20251205084005_1": {
+          "versionNumber": 1,
+          "timestamp": "2025-12-04T21:40:05.075Z",
+          "name": "version initiale",
+          "size": 3988,
+          "wordCount": 2521,
+          "wordCountWithMd": 2516,
+          "charCount": 3418,
+          "charCountWithMd": 3904,
+          "lineCount": 50,
+          "lineCountWithoutMd": 1
+        },
+        "20251205085817_2": {
+          "versionNumber": 2,
+          "timestamp": "2025-12-04T21:58:17.846Z",
+          "name": "version control",
+          "description": "Remplacement de la procédure Github par une procédure avec \"version control\" pour avoir des versions plus granulaires au niveau des fichiers et non de la vault complète",
+          "size": 4197,
+          "wordCount": 2479,
+          "wordCountWithMd": 2508,
+          "charCount": 3413,
+          "charCountWithMd": 4122,
+          "lineCount": 52,
+          "lineCountWithoutMd": 1
+        }
+      },
+      "totalVersions": 2
+    }
+  },
+  "createdAt": "2025-12-04T21:40:05.067Z",
+  "lastModified": "2025-12-07T22:06:22.724Z"
+}

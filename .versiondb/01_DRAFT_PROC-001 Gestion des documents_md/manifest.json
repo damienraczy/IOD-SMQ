@@ -1,0 +1,39 @@
+{
+  "noteId": "01_DRAFT_PROC-001 Gestion des documents_md",
+  "notePath": "02_PUBLIE/3.Procédures/PROC-001 Gestion des documents.md",
+  "currentBranch": "main",
+  "branches": {
+    "main": {
+      "versions": {
+        "20251208092015_1": {
+          "versionNumber": 1,
+          "timestamp": "2025-12-07T22:20:15.133Z",
+          "name": "0.1",
+          "description": "0.1",
+          "size": 2071,
+          "wordCount": 1289,
+          "wordCountWithMd": 1288,
+          "charCount": 1812,
+          "charCountWithMd": 2019,
+          "lineCount": 66,
+          "lineCountWithoutMd": 1
+        },
+        "20251208092914_2": {
+          "versionNumber": 2,
+          "timestamp": "2025-12-07T22:29:14.283Z",
+          "name": "1.0",
+          "size": 4713,
+          "wordCount": 3198,
+          "wordCountWithMd": 3197,
+          "charCount": 4214,
+          "charCountWithMd": 4610,
+          "lineCount": 100,
+          "lineCountWithoutMd": 1
+        }
+      },
+      "totalVersions": 2
+    }
+  },
+  "createdAt": "2025-12-07T22:20:15.129Z",
+  "lastModified": "2025-12-07T22:29:41.305Z"
+}

@@ -1,0 +1,26 @@
+{
+  "noteId": "01_DRAFT_REF-001 Code de déontologie_md",
+  "notePath": "02_PUBLIE/1.Stratégie/REF-001 Code de déontologie.md",
+  "currentBranch": "main",
+  "branches": {
+    "main": {
+      "versions": {
+        "20251208095630_1": {
+          "versionNumber": 1,
+          "timestamp": "2025-12-07T22:56:30.492Z",
+          "name": "0.1",
+          "size": 4646,
+          "wordCount": 3284,
+          "wordCountWithMd": 3283,
+          "charCount": 4203,
+          "charCountWithMd": 4509,
+          "lineCount": 74,
+          "lineCountWithoutMd": 1
+        }
+      },
+      "totalVersions": 1
+    }
+  },
+  "createdAt": "2025-12-07T22:56:30.485Z",
+  "lastModified": "2025-12-07T22:57:41.778Z"
+}

@@ -1,0 +1,26 @@
+{
+  "noteId": "To do_md",
+  "notePath": "To do.md",
+  "currentBranch": "main",
+  "branches": {
+    "main": {
+      "versions": {
+        "20251205083900_1": {
+          "versionNumber": 1,
+          "timestamp": "2025-12-04T21:39:00.380Z",
+          "name": "v0",
+          "size": 146,
+          "wordCount": 111,
+          "wordCountWithMd": 111,
+          "charCount": 141,
+          "charCountWithMd": 142,
+          "lineCount": 6,
+          "lineCountWithoutMd": 1
+        }
+      },
+      "totalVersions": 1
+    }
+  },
+  "createdAt": "2025-12-04T21:39:00.373Z",
+  "lastModified": "2025-12-04T21:39:08.076Z"
+}

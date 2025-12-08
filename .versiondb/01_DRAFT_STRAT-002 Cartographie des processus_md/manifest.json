@@ -1,0 +1,38 @@
+{
+  "noteId": "01_DRAFT_STRAT-002 Cartographie des processus_md",
+  "notePath": "02_PUBLIE/1.Stratégie/STRAT-002 Cartographie des processus.md",
+  "currentBranch": "main",
+  "branches": {
+    "main": {
+      "versions": {
+        "20251208102714_1": {
+          "versionNumber": 1,
+          "timestamp": "2025-12-07T23:27:14.880Z",
+          "name": "v0.1",
+          "size": 4388,
+          "wordCount": 2207,
+          "wordCountWithMd": 2827,
+          "charCount": 2965,
+          "charCountWithMd": 4305,
+          "lineCount": 110,
+          "lineCountWithoutMd": 1
+        },
+        "20251208102752_2": {
+          "versionNumber": 2,
+          "timestamp": "2025-12-07T23:27:52.567Z",
+          "name": "v1.0",
+          "size": 4388,
+          "wordCount": 2207,
+          "wordCountWithMd": 2827,
+          "charCount": 2965,
+          "charCountWithMd": 4305,
+          "lineCount": 110,
+          "lineCountWithoutMd": 1
+        }
+      },
+      "totalVersions": 2
+    }
+  },
+  "createdAt": "2025-12-07T23:27:14.873Z",
+  "lastModified": "2025-12-07T23:27:57.675Z"
+}
